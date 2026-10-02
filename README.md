@@ -1,4 +1,4 @@
-# IBM HR Analytics — Employee Attrition Dashboard
+# IBM HR Analytics - Employee Attrition Dashboard
 
 An interactive HR Analytics dashboard built in Microsoft Excel using the IBM HR Analytics Employee Attrition & Performance dataset from Kaggle.
 
