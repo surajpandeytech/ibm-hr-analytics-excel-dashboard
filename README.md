@@ -36,10 +36,10 @@ The original Kaggle dataset was reviewed and prepared before performing the anal
 
 The workbook contains four main sheets:
 
-- Raw_data — Original dataset
-- Clean_data — Cleaned and prepared dataset
-- Pivot — PivotTable analysis
-- Dashboard — Final interactive dashboard
+- Raw_data - Original dataset
+- Clean_data - Cleaned and prepared dataset
+- Pivot - PivotTable analysis
+- Dashboard - Final interactive dashboard
 
 The cleaned dataset was then used to create the PivotTables and dashboard visualizations.
 
@@ -146,7 +146,7 @@ The dataset was used as the starting point for the analysis. The data preparatio
 ---
 
 ## Project Structure
-
+```text
 ibm-hr-analytics-excel-dashboard/
 │
 ├── README.md
@@ -176,7 +176,7 @@ ibm-hr-analytics-excel-dashboard/
     ├── pivot_analysis_1.png
     ├── pivot_analysis_2.png
     └── raw_data.png
-
+```
 ---
 
 ## How to Use
@@ -216,6 +216,6 @@ https://www.linkedin.com/in/surajpandeytech
 
 ## Project Status
 
-Completed — Project 2
+Completed - Project 2
 
 This project is part of my data analytics portfolio.
